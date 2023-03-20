@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "125702849867",
+    "project_id": "chat-app-4a0f0",
+    "storage_bucket": "chat-app-4a0f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125702849867:android:b3d1dda7af878dd79594ce",
+        "android_client_info": {
+          "package_name": "com.amarin.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125702849867-l2i1p83e9tosftq0snjave9v9bvn0902.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAjFvfTz90Z8w9-AyAMq12Ej6xYE-Kg2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125702849867-l2i1p83e9tosftq0snjave9v9bvn0902.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125702849867-1l6gijk17o7pfsdv4d57mb7ise6jv8ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amarin.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

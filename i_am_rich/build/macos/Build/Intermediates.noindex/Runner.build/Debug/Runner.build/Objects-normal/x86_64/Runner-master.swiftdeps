@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bc1979cdc145d04ced726d4f3caf29e447e48fe64d0beb89bdfeda9c26111805"
+build_start_time: [1672833788, 987473964]
+build_end_time: [1672833800, 679363965]
+inputs:
+  "/Users/amarin/Desktop/FlutterWork/practice/i_am_rich/macos/Flutter/GeneratedPluginRegistrant.swift": [1672833766, 729160785]
+  "/Users/amarin/Desktop/FlutterWork/practice/i_am_rich/macos/Runner/AppDelegate.swift": [1638473214, 736620426]
+  "/Users/amarin/Desktop/FlutterWork/practice/i_am_rich/macos/Runner/MainFlutterWindow.swift": [1638473214, 738850116]
